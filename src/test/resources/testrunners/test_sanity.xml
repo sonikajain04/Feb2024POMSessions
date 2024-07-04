@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="TestNG Regression Suit" verbose="3"  thread-count="5" parallel="tests">
+  <test name="Google Test">
+    <classes>
+      <class name="myTests.GoogleTest"/>
+    </classes>
+  </test> <!-- Test -->
+  
+   <test name="OrangeHRM Test">
+    <classes>
+      <class name="myTests.OrangeHRMTest"/>
+    </classes>
+  </test> <!-- Test -->
+  
+   <test name="OpenCartLogin Test">
+    <classes>
+      <class name="myTests.OpenCartLoginTest"/>
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->

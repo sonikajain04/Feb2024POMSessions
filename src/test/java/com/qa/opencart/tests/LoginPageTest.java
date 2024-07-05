@@ -7,8 +7,6 @@ import com.qa.opencart.base.BaseTest;
 import com.qa.opencart.constants.AppConstants;
 import com.qa.opencart.errors.AppError;
 import com.qa.opencart.listeners.AnnotationTransformer;
-import com.qa.opencart.listeners.ExtentReportListener;
-import com.qa.opencart.listeners.TestAllureListener;
 
 import io.qameta.allure.Description;
 import io.qameta.allure.Epic;

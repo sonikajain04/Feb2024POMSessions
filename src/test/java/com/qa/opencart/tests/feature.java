@@ -1,7 +1,7 @@
 package com.qa.opencart.tests;
 
-public class CartPage {
+public class feature {
 
-	String i = "Cartpage";
+	String i = "feature";
 }
 

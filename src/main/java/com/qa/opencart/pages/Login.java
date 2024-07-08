@@ -4,7 +4,7 @@ public class Login {
 
 	int i = 0;
 	String s = "Hello";
-	public static void main() {
+	public void main() {
 		System.out.println("main - created");	
 	}
 

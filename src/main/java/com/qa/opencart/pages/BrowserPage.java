@@ -2,9 +2,9 @@ package com.qa.opencart.pages;
 
 public class BrowserPage {
 
-	int i=9;
+	int n=10000;
 	
 	public void login() {
-		System.out.println("Browser ---- login");
+		System.out.println("Sonika stash test ---- login updated");
 	}
 }

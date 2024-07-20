@@ -1,4 +1,4 @@
 "delete page"
-"###########"
-  PPPPPPPPPPP
-  Test code remote master
+
+"updated delete page"
+"merge conflict resolved"
